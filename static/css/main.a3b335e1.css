@@ -48,6 +48,17 @@ main {
 	display: flex;
 	flex-direction: row;
 }
+
+footer#cnpj {
+	background-color: #fde907;
+	color: #072d4c;
+	font-family: Roboto, sans-serif;
+	font-weight: 700;
+	padding: 5px;
+	text-align: center;
+	font-size: 10px;
+}
+
 @media screen and (max-width: 800px) {
 	main {
 		display: contents;

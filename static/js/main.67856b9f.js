@@ -10749,7 +10749,8 @@
 						}),
 						(0, i.jsx)("footer", {
 							id: "cnpj",
-							children: "CNPJ 56.531.267/0001-60",
+							children:
+								"RAFAEL JARDIM PEREIRA RAMOS VEREADOR CNPJ 56.531.267/0001-60",
 						}),
 					],
 				})
